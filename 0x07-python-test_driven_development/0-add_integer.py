@@ -1,20 +1,17 @@
 #!/usr/bin/python3
-"""
-This module has one fuction: add_integer(a, b)
-Directory: 0x06-python-test_driven_development
-add_integer(a, b): Return a + b
-"""
+"""Defines an integer addition function."""
 
 
-def add_integer(a, b):
+def add_integer(a, b=98):
+    """Return the integer addition of a and b.
+
+    Float arguments are typecasted to ints before addition is performed.
+
+    Raises:
+        TypeError: If either of a or b is a non-integer and non-float.
     """
-    add_integer:
-    Return sum of a and b, cast as int if float
-    raise error if not int or float types
-    """
-    if isinstance(a, (int, float)) is False:
+    if ((not isinstance(a, int) and not isinstance(a, float))):
         raise TypeError("a must be an integer")
-    if isinstance(b, (int, float)) is False:
+    if ((not isinstance(b, int) and not isinstance(b, float))):
         raise TypeError("b must be an integer")
-
-    return int(a) + int(b)
+    return (int(a) + int(b))
