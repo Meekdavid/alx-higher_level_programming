@@ -1,4 +1,4 @@
-david effiong effiong mboko mboko
+david effiong effiong mboko mbok
 #!/usr/bin/python3
 """
 This module has one fuction: add_integer(a, b)
