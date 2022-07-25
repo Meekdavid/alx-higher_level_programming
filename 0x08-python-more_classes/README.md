@@ -1,7 +1,7 @@
 0x08. Python - More Classes and Objects
 =======================================
 
--   By Guillaume
+-   By Mboko David
 
 #### In a nutshell...
 
