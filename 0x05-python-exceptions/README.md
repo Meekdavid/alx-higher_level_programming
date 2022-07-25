@@ -1,7 +1,7 @@
 0x05. Python - Exceptions
 =========================
 
--   By Guillaume
+-   By David Mboko
 
 Resources
 ---------
