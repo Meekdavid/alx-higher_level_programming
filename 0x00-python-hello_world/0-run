@@ -1,4 +1,4 @@
-Davfid  Effion
+Davfid  Effio
 #!/bin/bash
 
 python3 $PYFILE
