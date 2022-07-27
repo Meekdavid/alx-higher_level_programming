@@ -1,4 +1,4 @@
-Davfid  E
+Davfid  
 #!/bin/bash
 
 python3 $PYFILE
