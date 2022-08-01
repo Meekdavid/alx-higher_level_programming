@@ -1,4 +1,4 @@
-David David effiong effiong mbo
+David David effiong effiong mb
 #!/usr/bin/python3
 """Defines an object attribute lookup function."""
 
