@@ -1,1 +1,1 @@
-My Python Programming Practice
+My Python and JavaScript Programming Practice and projects.
